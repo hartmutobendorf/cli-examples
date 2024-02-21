@@ -970,7 +970,6 @@ def format_timedelta(
                 formatted_string = ' '.join([formatted_string, pattern.replace('{0}', str(value))])
                 break
             elif ((depth=='full' and value > 0) or depth == 'fullest'):
-                print(value)
                 formatted_string = ' '.join([formatted_string, pattern.replace('{0}', str(value))])
                 seconds = seconds - value * secs_per_unit
 
