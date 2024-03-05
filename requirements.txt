@@ -1,2 +1,2 @@
-rich @ git+https://github.com/hartmutobendorf/rich@master
+rich @ git+https://github.com/hartmutobendorf/rich
 babel==2.14.0
