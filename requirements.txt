@@ -1,2 +1,2 @@
-rich==13.7.0
+rich @ git+https://github.com/hartmutobendorf/rich/tree/master
 babel==2.14.0
